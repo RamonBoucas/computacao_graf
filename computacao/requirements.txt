@@ -1,0 +1,9 @@
+certifi==2022.5.18.1
+numpy==1.21.6
+Pillow==9.2.0
+PyGLM==2.5.7
+PyOpenGL @ file:///C:/Users/ramon.boucas/Desktop/openGL/PyOpenGL-3.1.6-cp37-cp37m-win_amd64.whl
+PyOpenGL-accelerate @ file:///C:/Users/ramon.boucas/Desktop/openGL/PyOpenGL_accelerate-3.1.6-cp37-cp37m-win_amd64.whl
+PySDL2 @ file:///C:/Users/ramon.boucas/Desktop/openGL/PySDL2-0.9.11.tar.gz
+pysdl2-dll==2.0.20
+wincertstore==0.2
